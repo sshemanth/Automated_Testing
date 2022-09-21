@@ -1,4 +1,4 @@
-# Selenium_Automation_Scripting
+# Selenium Automation Scripting
 Sparks Foundation Internship #Task
 ## Demo Video
 https://youtu.be/D45DAnQT-z0
